@@ -1,0 +1,2 @@
+Each folder in the include directory will generate a library which will be placed
+in this directory where applications in turn link to them.
